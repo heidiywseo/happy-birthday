@@ -1049,7 +1049,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   text-align: center;
-  max-width: 300px;
+  max-width: 400px;
   font-size: 1.0rem;
   font-family: "Arial", sans-serif;
   opacity: 0;
@@ -1058,7 +1058,7 @@ body {
 
 #photo-container img {
   width: 100%;
-  max-width: 300px;
+  max-width: 350px;
   border-radius: 10px;
 }
 
